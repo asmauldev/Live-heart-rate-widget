@@ -1,75 +1,68 @@
-Live Heart Rate Widget
+Live Heart Rate
 
-A minimalist Android home screen widget that displays live heart rate from fitbit air, fitbit edge and pixel watches.
+An Android app for real-time heart rate monitoring and home screen widget.
 
+Device compatibility: This app will only work with Google Fitbit Air, Fitbit Edge, and Google Pixel Watches that support live heart rate sharing through Google Health's Share Heart Rate feature.»
 
-❤️ About
+Live Heart Rate lets you monitor your current heart rate directly on your phone. It provides three ways to view your heart rate: through the main app interface, a dedicated full-screen display, or a convenient home-screen widget.
 
-I created this application to make live heart-rate monitoring more accessible directly from the Android home screen.
+♥️ Features
 
-Instead of opening a fitness application every time I want to check my heart rate, I can simply glance at a small, square widget.
+1. Live Heart Rate Monitoring
 
-The widget features a clean black design, a large heart-rate number, and an animated heart.
+View your current heart rate in real time using a supported device. The displayed BPM updates as new heart rate readings are received.
 
-This is an independent project created for Fitbit Air users.
+2. Full-Screen Heart Rate Display
 
-Features
+Turn your phone into a dedicated heart rate monitor. The full-screen interface features an extra-large BPM display, an animated heart indicator, and a discreet connection status.
 
-- Live heart-rate display.
-- Minimalist square Android home-screen widget.
-- Black background.
-- Large, centered heart-rate number.
-- White heart-rate text up to 120 BPM.
-- Red heart-rate text above 120 BPM.
-- Animated beating heart.
-- Connection status indicator.
-- Automatic reconnection support.
-- Lightweight interface.
+The layout automatically adapts to portrait and landscape orientations, making it suitable for keeping your phone beside you while monitoring your heart rate.
 
+3. Home-Screen Widget
 
-Requirements
+Keep your live heart rate accessible directly from your Android home screen. The widget lets you check your current BPM at a glance without having to open the application.
 
-- Android smartphone.
-- Fitbit Air/edge/pixel watch
-- Google Health app with heart-rate sharing enabled.
-- Bluetooth enabled.
+4. Simple Setup
 
-Compatibility may depend on the device, Android version, and Fitbit Air connection configuration.
+The app uses Google Health's Share Heart Rate functionality to receive heart rate data from supported devices. A built-in guide walks users through enabling the feature and connecting their device.
 
-Installation
+Supported Devices:
 
-1. Download the latest APK from the Releases section.
-2. Open the downloaded APK on your Android device.
-3. Allow installation from the source if Android asks.
-4. Complete the installation.
-5. Add the widget to your home screen.
-6. Connect Fitbit Air and enable heart-rate sharing.
+- Google Fitbit Air — Tested and confirmed working.
+- Fitbit Edge — Expected to work.
+- Google Pixel Watches — Models that support live heart rate sharing through Google Health's Share Heart Rate feature.
 
-How to Use
+Device compatibility depends on the availability of the required heart rate sharing functionality. Support may vary depending on the device model and software version.
 
-1. Wear your Fitbit Air.
-2. Open the Google Health app.
-3. Enable the heart-rate sharing feature.
-4. Open the widget application.
-5. Connect to your Fitbit Air.
-6. Add the heart-rate widget to your home screen.
+Getting Started
 
-The widget displays the current heart rate received by the application.
+Step 1: Enable Share Heart Rate
 
-Privacy
+1. Open the Google Health app on your phone.
+2. Navigate to the app's Settings page.
+3. Find Share Heart Rate and turn it on.
 
-This project is designed to display heart-rate information from Fitbit Air.
+Step 2: Connect Your Device
 
-Before publishing, the developer will document the exact data handling, storage, and permission behavior of the application.
+1. Open Live Heart Rate.
+2. Tap Scan for Devices.
+3. Find your supported device in the list.
+4. Tap Connect.
 
-Disclaimer
+Once connected, your live heart rate will appear in the application and home-screen widget.
 
-This application is an independent project and is not affiliated with, endorsed by, or sponsored by Google or Fitbit.
+Troubleshooting: If your device does not appear or connect, try turning Share Heart Rate off and on again. You can also toggle Bluetooth off and on before scanning again.
 
-The application is intended for informational and fitness purposes only. It is not a medical device and should not be used for medical diagnosis or treatment.
+♥️ About the Project
 
-Developer
+Live Heart Rate is an independent third party Android project.
 
-Created by Asmaul.
+It's is designed to provide a simple and accessible way to monitor live heart rate using supported wearable devices, with a focus on a clean interface and convenient access through both the application and its home-screen widget.
 
-Version: V1.0
+It is not affiliated with, endorsed by, or officially associated with Google or Fitbit. Google, Fitbit, Pixel, and related product names are trademarks of their respective owners.
+
+Version 1.03
+
+---
+
+Asmaul
