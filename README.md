@@ -1,4 +1,4 @@
-♥️ Live Heart Rate
+Live Heart Rate
 
 An Android app for real-time heart rate monitoring and home screen widget.
 
